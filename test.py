@@ -7,6 +7,3 @@ print("Hello Mofos")
 print("Archie maitim")
 are = input("TANGINA MO: ")
 print("gusto ko ng kape.")
-
-
-def ()
