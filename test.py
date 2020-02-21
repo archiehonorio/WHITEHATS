@@ -7,3 +7,12 @@ print("Hello Mofos")
 print("Archie maitim")
 are = input("TANGINA MO: ")
 print("gusto ko ng kape.")
+import  time
+
+
+def countdown_timer(x):
+    while x >= 0 :
+        x -= 1
+        print("{} remaining".format(str(datetime.timedelta(seconds=x))))
+        print("\n")
+        time.sleep(1)
