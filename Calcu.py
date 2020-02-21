@@ -10,3 +10,8 @@ def multiofint(a,b):
     a = int(input("Enter Number: "))
     b = int(input("Enter Number: "))
     return a*b
+def plus():
+    n1 = int(input("Enter n1: "))
+    n2 = int(input("Enter n2: "))
+    total = n1 + n2
+    return total
