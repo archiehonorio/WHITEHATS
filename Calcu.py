@@ -15,3 +15,6 @@ def plus():
     n2 = int(input("Enter n2: "))
     total = n1 + n2
     return total
+# This function subtracts two numbers 
+def subtract(x, y):
+   return x - y
